@@ -1,0 +1,15 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-descriptor/1.0.0" location="D:/JetBrains/.IntellijIdea2016.2/system/extResources/a8440932_archetype-descriptor-1.0.0.xsd" />
+    <resource url="http://ofbiz.apache.org/dtds/service-eca.xsd" location="H:/workspace/oa-ofbiz/framework/service/dtd/service-eca.xsd" />
+    <resource url="http://ofbiz.apache.org/dtds/services.xsd" location="H:/workspace/oa-ofbiz/framework/service/dtd/services.xsd" />
+    <resource url="http://ofbiz.apache.org/dtds/site-conf.xsd" location="H:/workspace/oa-ofbiz/framework/webapp/dtd/site-conf.xsd" />
+    <resource url="http://ofbiz.apache.org/dtds/widget-common.xsd" location="H:/workspace/oa-ofbiz/framework/widget/dtd/widget-common.xsd" />
+    <resource url="http://ofbiz.apache.org/dtds/widget-menu.xsd" location="H:/workspace/oa-ofbiz/framework/widget/dtd/widget-menu.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/d83fe593_spring-beans-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/data/mongo/spring-mongo-1.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/3303e418_spring-mongo-1.0.xsd" />
+    <resource url="http://www.springframework.org/schema/data/repository/spring-repository-1.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/a3a8a12e_spring-repository-1.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/946a6b65_spring-tool-4.3.xsd" />
+  </component>
+</application>
