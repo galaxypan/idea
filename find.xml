@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.proto" />
     <recentFileMasks>
-      <mask>.xml</mask>
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
       <mask>pom.</mask>
@@ -18,8 +18,6 @@
       <mask>*.ja</mask>
       <mask>*.js</mask>
       <mask>*.a</mask>
-      <mask>*.pro</mask>
-      <mask>*.proto</mask>
       <mask>*.ftl</mask>
       <mask>*.ft</mask>
       <mask>*.f</mask>
@@ -34,6 +32,9 @@
       <mask>*service.xml</mask>
       <mask>*service*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.pro</mask>
+      <mask>*.prot</mask>
+      <mask>*.proto</mask>
     </recentFileMasks>
   </component>
 </application>
