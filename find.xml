@@ -15,14 +15,12 @@
       <mask>*.jsp</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
-      <mask>*.js</mask>
       <mask>*.a</mask>
       <mask>*.ftl</mask>
       <mask>*.ft</mask>
       <mask>*.f</mask>
       <mask>*.</mask>
       <mask>*.html</mask>
-      <mask>*.java</mask>
       <mask>*.xmo</mask>
       <mask>*.xm</mask>
       <mask>*s.xml</mask>
@@ -34,6 +32,8 @@
       <mask>*.pro</mask>
       <mask>*.prot</mask>
       <mask>*.proto</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
