@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>p</mask>
       <mask>*</mask>
@@ -29,11 +30,11 @@
       <mask>*.js</mask>
       <mask>*.jsxml</mask>
       <mask>*.sxml</mask>
-      <mask>*.xml</mask>
-      <mask>**.xml</mask>
       <mask>*ser*.xml</mask>
       <mask>*servic*.xml</mask>
       <mask>*service*.xml</mask>
+      <mask>**.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
