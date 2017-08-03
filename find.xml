@@ -27,13 +27,13 @@
       <mask>*servml</mask>
       <mask>*service*.xmlml</mask>
       <mask>*service*.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.</mask>
       <mask>*.ftl</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
