@@ -4,12 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.jsxml</mask>
-      <mask>*.sxml</mask>
-      <mask>*ser*.xml</mask>
-      <mask>*servic*.xml</mask>
-      <mask>*.x*(ml</mask>
-      <mask>*.x*ml</mask>
       <mask>*.ml</mask>
       <mask>*ml</mask>
       <mask>*sml</mask>
@@ -19,7 +13,6 @@
       <mask>*service*.xml</mask>
       <mask>*.ftl</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>**.xml</mask>
       <mask>*en*.xml</mask>
@@ -33,6 +26,13 @@
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.proto</mask>
+      <mask>*.java</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
