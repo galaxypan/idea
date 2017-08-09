@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*service*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*serml</mask>
       <mask>*servml</mask>
       <mask>*service*.xmlml</mask>
       <mask>*.ftl</mask>
@@ -16,25 +15,26 @@
       <mask>*entity*.xml</mask>
       <mask>*entity*.xml*(</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.proto</mask>
-      <mask>*.java</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*.x</mask>
       <mask>*.xsd</mask>
-      <mask>*.xml</mask>
-      <mask>**.xml</mask>
       <mask>*ser*.xml</mask>
       <mask>*servic*.xml</mask>
       <mask>*service*.xml</mask>
+      <mask>**.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
