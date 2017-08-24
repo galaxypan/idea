@@ -5,9 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ftl" />
     <recentFileMasks>
-      <mask>*en*.xml</mask>
-      <mask>*enti*.xml</mask>
       <mask>*entit*.xml</mask>
       <mask>*entity*.xml</mask>
       <mask>*entity*.xml*(</mask>
@@ -36,6 +35,8 @@
       <mask>*.</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.ftl</mask>
     </recentFileMasks>
   </component>
 </application>
