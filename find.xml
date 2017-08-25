@@ -6,15 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*entit*.xml</mask>
-      <mask>*entity*.xml</mask>
-      <mask>*entity*.xml*(</mask>
-      <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.pro</mask>
-      <mask>*.proto</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
@@ -30,12 +21,21 @@
       <mask>*ser.xml</mask>
       <mask>*service*.xml.xml</mask>
       <mask>*service*.xml</mask>
-      <mask>**.xml</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*.</mask>
       <mask>*.ftl</mask>
+      <mask>*.xmlc</mask>
+      <mask>*.xml</mask>
+      <mask>**.xml</mask>
+      <mask>*congr*.xml</mask>
+      <mask>*cong*.xml</mask>
+      <mask>*con*.xml</mask>
+      <mask>*s*.xml</mask>
+      <mask>*sc*.xml</mask>
+      <mask>*scren*.xml</mask>
+      <mask>*scre=*.xml</mask>
+      <mask>*scre*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
