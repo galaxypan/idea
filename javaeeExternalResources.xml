@@ -1,6 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-descriptor/1.0.0" location="D:/JetBrains/.IntellijIdea2016.2/system/extResources/a8440932_archetype-descriptor-1.0.0.xsd" />
+    <resource url="http://ofbiz.apache.org/dtds/entitymodel.xsd" location="H:/workspace/oa-ofbiz/framework/entity/dtd/entitymodel.xsd" />
     <resource url="http://ofbiz.apache.org/dtds/service-eca.xsd" location="H:/workspace/oa-ofbiz/framework/service/dtd/service-eca.xsd" />
     <resource url="http://ofbiz.apache.org/dtds/services.xsd" location="H:/workspace/oa-ofbiz/framework/service/dtd/services.xsd" />
     <resource url="http://ofbiz.apache.org/dtds/site-conf.xsd" location="H:/workspace/oa-ofbiz/framework/webapp/dtd/site-conf.xsd" />
