@@ -2,24 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*.xsd</mask>
-      <mask>*ser*.xml</mask>
-      <mask>*servic*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*s.xml</mask>
-      <mask>*ser.xml</mask>
-      <mask>*service*.xml.xml</mask>
       <mask>*service*.xml</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
@@ -36,6 +21,20 @@
       <mask>*scren*.xml</mask>
       <mask>*scre=*.xml</mask>
       <mask>*scre*.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*servi*.groovy</mask>
+      <mask>*serv*.groovy</mask>
+      <mask>*ser*.groovy</mask>
+      <mask>*se*.groovy</mask>
+      <mask>*s*.groovy</mask>
+      <mask>**.groovy</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
