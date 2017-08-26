@@ -3,10 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*service*.xml</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
       <mask>*.</mask>
       <mask>*.ftl</mask>
@@ -29,12 +26,14 @@
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*servi*.groovy</mask>
-      <mask>*serv*.groovy</mask>
-      <mask>*ser*.groovy</mask>
-      <mask>*se*.groovy</mask>
-      <mask>*s*.groovy</mask>
-      <mask>**.groovy</mask>
       <mask>*.groovy</mask>
+      <mask>**.groovy</mask>
+      <mask>*s*.groovy</mask>
+      <mask>*se*.groovy</mask>
+      <mask>*ser*.groovy</mask>
+      <mask>*serv*.groovy</mask>
+      <mask>*servic*.groovy</mask>
+      <mask>*service*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
