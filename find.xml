@@ -4,11 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.</mask>
-      <mask>*.ftl</mask>
       <mask>*.xmlc</mask>
-      <mask>*.xml</mask>
       <mask>**.xml</mask>
       <mask>*congr*.xml</mask>
       <mask>*cong*.xml</mask>
@@ -18,9 +14,6 @@
       <mask>*scren*.xml</mask>
       <mask>*scre=*.xml</mask>
       <mask>*scre*.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.groo</mask>
@@ -34,6 +27,13 @@
       <mask>*serv*.groovy</mask>
       <mask>*servic*.groovy</mask>
       <mask>*service*.groovy</mask>
+      <mask>*</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
