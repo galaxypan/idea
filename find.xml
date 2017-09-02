@@ -5,8 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ftl" />
     <recentFileMasks>
-      <mask>*.xmlc</mask>
       <mask>**.xml</mask>
       <mask>*congr*.xml</mask>
       <mask>*cong*.xml</mask>
@@ -36,6 +36,7 @@
       <mask>*.</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.ftl</mask>
     </recentFileMasks>
   </component>
 </application>
