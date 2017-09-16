@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ftl" />
     <recentFileMasks>
       <mask>*.fr</mask>
       <mask>*.ja</mask>
@@ -10,7 +11,6 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.f</mask>
       <mask>*.ft</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
@@ -31,9 +31,10 @@
       <mask>*.</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
-      <mask>*.ftl</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.f</mask>
+      <mask>*.ftl</mask>
     </recentFileMasks>
   </component>
 </application>
