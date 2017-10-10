@@ -27,13 +27,13 @@
       <mask>**.groovy</mask>
       <mask>*</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
       <mask>*.xml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
