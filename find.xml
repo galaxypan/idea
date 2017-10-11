@@ -6,9 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.fr</mask>
-      <mask>*.ja</mask>
-      <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>*.ft</mask>
@@ -29,13 +26,16 @@
       <mask>**.groovy</mask>
       <mask>*</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
-      <mask>*.xml</mask>
       <mask>*.js</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
