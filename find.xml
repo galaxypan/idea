@@ -7,12 +7,8 @@
       <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>*.ft</mask>
-      <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
       <mask>S*.groovy</mask>
       <mask>Se*.groovy</mask>
       <mask>Ser*.groovy</mask>
@@ -34,6 +30,10 @@
       <mask>*.xml</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
+      <mask>*.g</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
