@@ -3,16 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>Servi*.groovy</mask>
-      <mask>Servic*.groovy</mask>
-      <mask>Service*.groovy</mask>
-      <mask>*Service*.groovy</mask>
-      <mask>**.groovy</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.</mask>
@@ -34,6 +26,15 @@
       <mask>*service*.xlml</mask>
       <mask>*service*.xmll</mask>
       <mask>*service*.xml</mask>
+      <mask>*j*.xml</mask>
+      <mask>*ja*.xml</mask>
+      <mask>*jav*.xml</mask>
+      <mask>*java*.xml</mask>
+      <mask>*java*.xm</mask>
+      <mask>*java*.x</mask>
+      <mask>*java*.</mask>
+      <mask>*java*</mask>
+      <mask>*java</mask>
     </recentFileMasks>
   </component>
 </application>
