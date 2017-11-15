@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.ja</mask>
-      <mask>*.f</mask>
       <mask>*.ftl</mask>
       <mask>*.g</mask>
       <mask>*.groo</mask>
@@ -34,6 +32,8 @@
       <mask>*xl</mask>
       <mask>*x</mask>
       <mask>*xml</mask>
+      <mask>*jsp</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
