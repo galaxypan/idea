@@ -1,11 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ftl" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*s.xml</mask>
       <mask>*ser.xml</mask>
       <mask>*ser*.xml</mask>
       <mask>*servi*.xml</mask>
@@ -27,13 +28,15 @@
       <mask>*xml</mask>
       <mask>*jsp</mask>
       <mask>*.jsp</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
       <mask>*.f</mask>
       <mask>*.ft</mask>
       <mask>*.ftl</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
