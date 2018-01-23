@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*ser.xml</mask>
-      <mask>*ser*.xml</mask>
-      <mask>*servi*.xml</mask>
-      <mask>*servic*.xml</mask>
-      <mask>*service*.xlml</mask>
-      <mask>*service*.xmll</mask>
       <mask>*service*.xml</mask>
       <mask>*j*.xml</mask>
       <mask>*ja*.xml</mask>
@@ -34,6 +29,12 @@
       <mask>*.f</mask>
       <mask>*.ft</mask>
       <mask>*.ftl</mask>
+      <mask>*.tl</mask>
+      <mask>*tl</mask>
+      <mask>tl</mask>
+      <mask>*</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
